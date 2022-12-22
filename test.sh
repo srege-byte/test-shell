@@ -2,6 +2,6 @@ echo "This is a test"
 #!/bin/bash
 while true
 do
-	echo "Press [CTRL+C] to stop.."
+	echo "You have been hacked"
 	sleep 1
 done
